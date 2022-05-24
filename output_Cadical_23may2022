@@ -1,0 +1,1294 @@
+normalized-par8-2.opb.msat.wcnf.gz
+0.018444s (350)
+
+KARATE.wcnf.gz
+0.001404s (4)
+
+role_smallcomp_0.0_6.wcnf.gz
+0.004312s (4)
+
+normalized-par8-1.opb.msat.wcnf.gz
+0.024583s (350)
+
+normalized-par8-3.opb.msat.wcnf.gz
+0.025884s (350)
+
+titanic.wcnf.gz
+0.003005s (7)
+
+simp-abcd_25.08.wcnf.gz
+0.003129s (18)
+
+role_smallcomp_0.0_5.wcnf.gz
+0.004215s (2)
+
+RISKMAP.wcnf.gz
+0.002401s (9)
+
+rev44-2.wcnf.gz
+0.002403s (16)
+
+johnson8-2-4.clq.wcnf.gz
+0.001210s (24)
+
+parkinsons_test_1_CNF_4_1.wcnf.gz
+0.001882s (14)
+
+parkinsons_test_6_CNF_5_1.wcnf.gz
+0.002162s (17)
+
+MinFill_R3_huck.wcnf.gz
+0.004344s (2)
+
+titanic_test_5_CNF_1_1.wcnf.gz
+0.001399s (36)
+
+normalized-aim-200-3_4-yes1-1.opb.msat.wcnf.gz
+0.010171s (200)
+
+simp-unif-50_30.20.wcnf.gz
+0.002379s (13)
+
+simp-unif-30_50r4.04.wcnf.gz
+0.003726s (13)
+
+normalized-g9x3.opb.msat.wcnf.gz
+0.001648s (7)
+
+normalized-g2x2.opb.msat.wcnf.gz
+0.000881s (2)
+
+SU2__simp-genos.haps.61.wcnf.gz
+0.004328s (161)
+
+synthetic-15.wcnf.gz
+0.014729s (2055)
+
+simp-unif-10_50r40.02.wcnf.gz
+0.005209s (17)
+
+johnson8-4-4.clq.wcnf.gz
+0.001768s (56)
+
+uaq-min-rpp-nr200-np400-rpp6-nc0-rs0-t0-plb1-n4.wcnf.gz
+0.024352s (11)
+
+rev66-2.wcnf.gz
+0.006164s (36)
+
+mux6.wcnf.gz
+0.015600s (24)
+
+adult_test_7_DNF_1_1.wcnf.gz
+0.036791s (2350)
+
+uaq-max-nc-nr10-np400-rpp5-nc40-n8-t3-plb10-n0.wcnf.gz
+0.111268s (84)
+
+simp-unif-30_50r40.01.wcnf.gz
+0.006168s (18)
+
+normalized-aim-200-6_0-yes1-2.opb.msat.wcnf.gz
+0.010644s (200)
+
+uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb2-n6.wcnf.gz
+0.050934s (36)
+
+3col80_5_4.shuffled.cnf.wcnf.gz
+0.018504s (73)
+
+3col80_5_10.shuffled.cnf.wcnf.gz
+0.021086s (75)
+
+POLITICSBOOK.wcnf.gz
+0.007961s (17)
+
+adult_test_9_CNF_1_1.wcnf.gz
+0.041437s (2363)
+
+synthetic-7.wcnf.gz
+0.034107s (3326)
+
+3col80_5_1.shuffled.cnf.wcnf.gz
+0.015456s (79)
+
+uaq-nr-nr410-nc136-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+0.021096s (68)
+
+uaq-nr-nr400-nc133-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+0.023539s (57)
+
+frb25-13-3.partial.wcnf.gz
+0.081414s (300)
+
+FOOTBALL.wcnf.gz
+0.013355s (13)
+
+RAILWAY.wcnf.gz
+0.028867s (44)
+
+c1355_F127gat-418gat@1.wcnf.gz
+0.045307s (33)
+
+promoters.wcnf.gz
+0.034658s (92)
+
+synthetic-5.wcnf.gz
+0.068113s (3174)
+
+transfusion_train_4_DNF_5_1.wcnf.gz
+0.292258s (170)
+
+irish.wcnf.gz
+0.029461s (11)
+
+johnson16-2-4.clq.wcnf.gz
+5.984930s (112)
+
+synthetic-2.wcnf.gz
+0.320910s (11345)
+
+synthetic-3.wcnf.gz
+0.124128s (4311)
+
+normalized-sao2.b.opb.msat.wcnf.gz
+0.043610s (25)
+
+ezfact32_2.shuffled.cnf.wcnf.gz
+0.161803s (364)
+
+normalized-f51m.b.opb.msat.wcnf.gz
+0.327369s (18)
+
+hamming6-4.clq.wcnf.gz
+0.012082s (60)
+
+synthetic-14.wcnf.gz
+0.230241s (5728)
+
+3col100_5_9.shuffled.cnf.wcnf.gz
+0.132301s (94)
+
+simp-cf_15.03.wcnf.gz
+0.002655s (17)
+
+simp-ace_35.09.wcnf.gz
+0.003501s (13)
+
+3col100_5_5.shuffled.cnf.wcnf.gz
+0.259832s (86)
+
+uaq-min-rpp-nr200-np400-rpp5-nc0-rs0-t0-plb4-n3.wcnf.gz
+0.044835s (28)
+
+3col100_5_10.shuffled.cnf.wcnf.gz
+0.140595s (94)
+
+normalized-par16-4.opb.msat.wcnf.gz
+0.346011s (1015)
+
+normalized-count.b.opb.msat.wcnf.gz
+0.069826s (24)
+
+s01423_nan_explicit_8_0.wcnf.gz
+0.103002s (63)
+
+synthetic-12.wcnf.gz
+0.836115s (17989)
+
+normalized-par16-1.opb.msat.wcnf.gz
+0.375774s (1015)
+
+normalized-9sym.b.opb.msat.wcnf.gz
+0.020712s (5)
+
+appendicitis.wcnf.gz
+0.391537s (56)
+
+4ede8d96-c17a-11df-a7c5-00163e3d3b7c_l3.wcnf.gz
+0.829511s (631)
+
+normalized-hanoi4.opb.msat.wcnf.gz
+0.410495s (718)
+
+frb30-15-5.partial.wcnf.gz
+0.083252s (420)
+
+MinFill_R5_jean.wcnf.gz
+0.600356s (11)
+
+normalized-g9x9.opb.msat.wcnf.gz
+0.030447s (20)
+
+gen_cvc-add3-opt-bw3_299.wcnf.gz
+1.033630s (624)
+
+uaq-min-nc-nr200-np400-rpp5-nc40-rs8-t3-plb10-n0.wcnf.gz
+0.069572s (50)
+
+uaq-min-rpp-nr200-np400-rpp5-nc0-rs0-t0-plb10-n3.wcnf.gz
+0.063163s (47)
+
+normalized-par16-2.opb.msat.wcnf.gz
+0.861378s (1015)
+
+TWComp_mildew_35.wcnf.gz
+0.091938s (4)
+
+c7552-bug-gate-0.dimacs.seq.filtered.wcnf.gz
+0.345802s (1)
+
+TWComp_alarm_N37.wcnf.gz
+0.093216s (4)
+
+1vii_.1cph_.g.wcnf.t.wcnf.gz
+0.035125s (7)
+
+s38417_nan_explicit_18_0.wcnf.gz
+0.326874s (63)
+
+TWComp_oesoca_N39.wcnf.gz
+0.112198s (3)
+
+s38417_nan_explicit_14_0.wcnf.gz
+1.944550s (55)
+
+s38417_nan_explicit_17_0.wcnf.gz
+0.317783s (61)
+
+s38417_nan_explicit_12_0.wcnf.gz
+0.269418s (70)
+
+sbox_4.wcnf.gz
+0.347037s (22)
+
+3col120_5_7.shuffled.cnf.wcnf.gz
+1.249310s (120)
+
+normalized-jac3.opb.msat.wcnf.gz
+0.549193s (15)
+
+3col120_5_1.shuffled.cnf.wcnf.gz
+0.698945s (123)
+
+gen_add_5_carry_299.wcnf.gz
+2.401320s (948)
+
+s38417_nan_explicit_3_0.wcnf.gz
+0.351329s (65)
+
+normalized-alu4.b.opb.msat.wcnf.gz
+3600s (-)
+
+frb30-15-2.partial.wcnf.gz
+1.812890s (420)
+
+3col120_5_5.shuffled.cnf.wcnf.gz
+0.868740s (112)
+
+normalized-e64.b.opb.msat.wcnf.gz
+0.534508s (47)
+
+rev44-6.wcnf.gz
+0.160941s (10)
+
+rand425_l2.wcnf.gz
+1.875280s (677)
+
+s15850-bug-onevec-gate-0.dimacs.seq.filtered.wcnf.gz
+0.570544s (1)
+
+rand736_l2.wcnf.gz
+1.087940s (1232)
+
+rand813_l2.wcnf.gz
+1.235020s (1192)
+
+3col120_5_4.shuffled.cnf.wcnf.gz
+0.804499s (122)
+
+TWComp_mainuk_N48.wcnf.gz
+0.227024s (6)
+
+normalized-exam.pi.opb.msat.wcnf.gz
+3600s (-)
+
+3col120_5_3.shuffled.cnf.wcnf.gz
+0.880613s (119)
+
+c5_DD_s3_f1_e1_v1-bug-onevec-gate-0.dimacs.seq.filtered.wcnf.gz
+1.167740s (1)
+
+rand411_l2.wcnf.gz
+3.392950s (578)
+
+uaq-min-nc-nr200-np400-rpp5-nc80-rs8-t3-plb10-n8.wcnf.gz
+0.069098s (50)
+
+normalized-bench1.pi.opb.msat.wcnf.gz
+3600s (-)
+
+TWComp_water_N32.wcnf.gz
+0.904670s (8)
+
+kbtree9_7_3_5_20_6.wcsp.wcnf.gz
+0.102541s (1)
+
+Q46_YESNO_4.wcnf.gz
+0.433692s (0)
+
+auto.wcnf.gz
+4.825030s (114)
+
+synthetic-21.wcnf.gz
+0.053287s (0)
+
+gen_alldiff_3_cook_991.wcnf.gz
+0.118936s (17)
+
+rand446_l2.wcnf.gz
+2.382400s (179)
+
+uaq-min-plb-nr10-np400-rpp5-nc0-rs0-t0-plb20-n2.wcnf.gz
+0.162813s (339)
+
+uaq-nr-nr180-nc60-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+2.070370s (53)
+
+GenHyperTW_b02.wcnf.gz
+1.778980s (1)
+
+SU-100kb__simp-genos.haps.24.wcnf.gz
+0.094241s (31)
+
+schizo.wcnf.gz
+3.042410s (86)
+
+Q38_YESNO_4.wcnf.gz
+1.143240s (0)
+
+AES1-50-15.wcnf.gz
+0.355172s (1)
+
+uaq-nr-nr190-nc63-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+0.966028s (49)
+
+real-2.wcnf.gz
+0.682125s (0)
+
+AES2-50-54.wcnf.gz
+0.348658s (2)
+
+Q34_YESNO_3.wcnf.gz
+1.037450s (0)
+
+c-fat200-1.clq.wcnf.gz
+0.529637s (188)
+
+frb20-11-1.partial.wcnf.gz
+0.015875s (200)
+
+uaq-nr-nr210-nc70-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+4.404110s (58)
+
+normalized-ii8a2.wcnf.gz
+0.085288s (139)
+
+c-fat200-2.clq.wcnf.gz
+0.033059s (176)
+
+uaq-nr-nr110-nc36-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+1.994990s (44)
+
+rand794_l2.wcnf.gz
+2.403420s (472)
+
+Q53_YESNO_3.wcnf.gz
+1.063780s (1)
+
+uaq-nr-nr160-nc53-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+9.804900s (52)
+
+real-6.wcnf.gz
+0.959794s (0)
+
+gen_cvc-plus_4_991.wcnf.gz
+3.936680s (54)
+
+normalized-apex4.a.opb.msat.wcnf.gz
+3.721730s (776)
+
+ctrl.wcnf.gz
+0.380520s (15)
+
+ac97_ctrl-debug.dimacs.wcnf.gz
+0.921825s (1)
+
+uaq-nr-nr100-nc33-n3-k2-rpp4-ppr2-plb50.wcnf.gz
+4.089400s (43)
+
+rand96_l2.wcnf.gz
+3.466040s (389)
+
+rand208_l2.wcnf.gz
+2.953160s (349)
+
+real-5.wcnf.gz
+2.318480s (1476)
+
+simp-ibd_45.07.wcnf.gz
+1.465530s (51)
+
+navigation_3x3_4.wcnf.gz
+5.808820s (4)
+
+Q46_YESNO_3.wcnf.gz
+1.627920s (1)
+
+rand242_l2.wcnf.gz
+3.891020s (388)
+
+geffe128_2.wcnf.gz
+2.970310s (800)
+
+rand937_l2.wcnf.gz
+3.353550s (439)
+
+frb20-11-4.partial.wcnf.gz
+0.018935s (200)
+
+extension-enforcement_strict_com_150_0.3_3_8_3.wcnf.gz
+6.658270s (19)
+
+kbtree9_7_3_5_20_4.wcsp.wcnf.gz
+0.250067s (2)
+
+splitedReads_137.matrix.wcnf.gz
+0.022058s (0)
+
+AES1-74-34.wcnf.gz
+2.437140s (1)
+
+AES1-70-21.wcnf.gz
+1.031300s (1)
+
+rev44-12.wcnf.gz
+1.073930s (2)
+
+SAT11__application__jarvisalo__AAAI2010-SATPlanning__aaai10-planning-ipc5-pipesworld-12-step16.cnf.wcnf.6.wcnf.gz
+0.910343s (0)
+
+TWComp_jean_N77.wcnf.gz
+1.473530s (8)
+
+normalized-ex5.pi.opb.msat.wcnf.gz
+427.583000s (65)
+
+drmx-am12-outof-40-ecardn.wcnf.gz
+2.812940s (28)
+
+role_domino_0.0_10.wcnf.gz
+23.654600s (5)
+
+role_domino_0.0_12.wcnf.gz
+23.560300s (1)
+
+role_domino_0.0_11.wcnf.gz
+20.899600s (4)
+
+AES2-50-51.wcnf.gz
+4.193300s (2)
+
+RSN_Security_Min_Witness-Direct-FlexScan-D9.wcnf.gz
+1.006630s (3)
+
+RSN_Security_Min_Witness-Direct-FlexScan-DF.wcnf.gz
+0.901712s (3)
+
+RSN_Security_Min_Witness-Direct-FlexScan-DA.wcnf.gz
+1.002570s (3)
+
+RSN_Security_Min_Witness-Direct-FlexScan-D4.wcnf.gz
+0.994836s (3)
+
+RSN_Security_Min_Witness-Direct-FlexScan-D0.wcnf.gz
+0.978161s (3)
+
+gen_add_5_399.wcnf.gz
+0.700597s (446)
+
+RSN_Security_Min_Witness-Direct-FlexScan-DB.wcnf.gz
+0.913222s (3)
+
+TWComp_barley2_N48.wcnf.gz
+4.119840s (6)
+
+navigation_3x3_5.wcnf.gz
+7.224880s (4)
+
+TWComp_barle_N48.wcnf.gz
+3.991380s (6)
+
+MinFill_R10_anna.wcnf.gz
+25.002500s (36)
+
+GenHyperTW_grid5.wcnf.gz
+4.156290s (3)
+
+gen_cvc-add3-bw3_33.wcnf.gz
+1.460570s (500)
+
+frb20-11-3.partial.wcnf.gz
+0.018509s (200)
+
+Q29_OPTIONS_1.wcnf.gz
+3.350340s (0)
+
+SingleDay_2.wcnf.gz
+521.031000s (6150)
+
+SingleDay_2_weighted.wcnf.gz
+246.972000s (6150)
+
+AES2-60-58.wcnf.gz
+2.911330s (2)
+
+Q7_YESNO_3.wcnf.gz
+4.076060s (1)
+
+splitedReads_18.matrix.wcnf.gz
+0.016314s (0)
+
+Q6_YESNO_3.wcnf.gz
+1.513360s (0)
+
+b17_C-mbd14-0359.wcnf.gz
+2.020020s (24)
+
+drmx-am16-outof-45-ecardn.wcnf.gz
+2.317990s (29)
+
+wolfram72_3.wcnf.gz
+85.059200s (9288)
+
+splitedReads_414.matrix.wcnf.gz
+0.017429s (0)
+
+splitedReads_160.matrix.wcnf.gz
+0.023292s (0)
+
+rev44-10.wcnf.gz
+0.422018s (4)
+
+johnson8-2-4.clq.wcnf.gz
+0.000952s (24)
+
+rand414_l2.wcnf.gz
+1.383570s (1246)
+
+AES2-50-55.wcnf.gz
+0.232129s (2)
+
+b17_C-mbd14-0390.wcnf.gz
+1.789340s (26)
+
+kbtree9_7_3_5_30_5.wcsp.wcnf.gz
+1.561020s (6)
+
+gen_cvc-mult4_4_9999.wcnf.gz
+3600s (-)
+
+gen_cvc-mult4_4_991.wcnf.gz
+17.031700s (85)
+
+AES1-60-18.wcnf.gz
+3.110060s (1)
+
+role_university_0.0_6.wcnf.gz
+2.327040s (10)
+
+role_university_0.0_4.wcnf.gz
+2.390880s (17)
+
+role_university_0.0_2.wcnf.gz
+2.277980s (12)
+
+b17_C-mbd14-0348.wcnf.gz
+2.108580s (20)
+
+atcoss_mesat_11.wcnf.gz
+10.213300s (49)
+
+drmx-am20-outof-50-eseqc.wcnf.gz
+3.596120s (30)
+
+navigation_3x3_6.wcnf.gz
+5.553860s (4)
+
+g4_n47e57_n48e52_n133e169_n141e184.wcnf.gz
+2.054540s (30)
+
+extension-enforcement_strict_com_200_0.1_0_10_1.wcnf.gz
+11.877100s (35)
+
+parkinsons_train_6_DNF_3_1.wcnf.gz
+1.379680s (12)
+
+b20_C-mbd14-0238.wcnf.gz
+0.548772s (19)
+
+kbtree9_7_3_5_90_2.wcsp.wcnf.gz
+3600s (-)
+
+kbtree9_7_3_5_30_4.wcsp.wcnf.gz
+1.597390s (6)
+
+gen_add_5_carry_399.wcnf.gz
+1.675090s (560)
+
+gen_mult_5_5_299.wcnf.gz
+76.880800s (3600)
+
+SAT11__application__fuhs__AProVE11__AProVE11-12.cnf.wcnf.3.wcnf.gz
+0.323238s (0)
+
+ilpd_train_9_CNF_5_1.wcnf.gz
+158.642000s (151)
+
+frb35-17-5.partial.wcnf.gz
+0.622289s (560)
+
+uaq-max-t-nr1000-np1000-rpp1-nc50-n12-t6-plb10-n6.wcnf.gz
+13.650400s (748)
+
+Q2_OPTIONS_1.wcnf.gz
+10.405200s (0)
+
+frb25-13-4.partial.wcnf.gz
+0.031516s (300)
+
+MinFill_R12_miles250.wcnf.gz
+128.062000s (41)
+
+spi.wcnf.gz
+5.365940s (46)
+
+SAT11__application__jarvisalo__AAAI2010-SATPlanning__aaai10-planning-ipc5-pipesworld-27-step14.cnf.wcnf.1.wcnf.gz
+4.595930s (0)
+
+Q43_YESNO_1.wcnf.gz
+31.175800s (0)
+
+wolfram80_7.wcnf.gz
+222.226000s (11440)
+
+mem_ctrl-debug.dimacs.wcnf.gz
+2.813210s (1)
+
+threshold128_1.wcnf.gz
+153.889000s (800)
+
+1knt_.2knt_.g.wcnf.t.wcnf.gz
+12.720300s (16)
+
+extension-enforcement_strict_com_200_0.05_0_40_1.wcnf.gz
+17.495700s (26)
+
+toms_test_1_DNF_1_1.wcnf.gz
+4.172100s (58)
+
+SAT11__application__jarvisalo__smtqfbv-aigs__smtlib-qfbv-aigs-rfunit_flat-64-tseitin.cnf.wcnf.5.wcnf.gz
+2.171380s (0)
+
+TWComp_david_N87.wcnf.gz
+19.709300s (12)
+
+gen_add_3_carry_33.wcnf.gz
+10.214300s (65)
+
+b20_C-mbd14-0359.wcnf.gz
+0.907041s (23)
+
+wolfram80_3.wcnf.gz
+241.874000s (11440)
+
+extension-enforcement_strict_com_100_0.05_4_20_3.wcnf.gz
+1.694090s (15)
+
+SAT11__application__jarvisalo__AAAI2010-SATPlanning__aaai10-planning-ipc5-pipesworld-18-step16.cnf.wcnf.2.wcnf.gz
+2.334200s (0)
+
+wolfram72_8.wcnf.gz
+164.165000s (9288)
+
+kbtree9_7_3_5_30_1.wcsp.wcnf.gz
+35.092200s (9)
+
+uaq-max-t-nr1000-np1000-rpp1-nc50-n12-t8-plb10-n0.wcnf.gz
+33.547100s (648)
+
+wolfram72_6.wcnf.gz
+172.539000s (9288)
+
+atcoss_sugar_01.wcnf.gz
+22.646200s (19)
+
+SAT11__application__jarvisalo__smtqfbv-aigs__smtlib-qfbv-aigs-rfunit_flat-64-tseitin.cnf.wcnf.3.wcnf.gz
+2.147160s (0)
+
+g2_n41e59_n41e44.wcnf.gz
+66.147400s (44)
+
+sysadmin_5_2.wcnf.gz
+134.490000s (0)
+
+AES1-72-29.wcnf.gz
+3.752300s (1)
+
+RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D0.wcnf.gz
+7.413050s (0)
+
+extension-enforcement_strict_com_200_0.2_2_10_2.wcnf.gz
+6.117340s (16)
+
+cnf.19.d.10.wcnf.gz
+5.270890s (19)
+
+sysadmin_4_2.wcnf.gz
+12.457400s (0)
+
+wolfram72_9.wcnf.gz
+102.941000s (9288)
+
+uaq-rpp-nr100-nc33-n3-k2-rpp9-ppr2-plb20.wcnf.gz
+19.398000s (49)
+
+sudoku-debug.dimacs.wcnf.gz
+8.431580s (1)
+
+drmx-am16-outof-45-emtot.wcnf.gz
+1.546900s (29)
+
+fpu7-problem.dimacs_22.filtered.wcnf.gz
+4.142090s (1)
+
+atcoss_mesat_01.wcnf.gz
+11.475500s (11)
+
+drmx-am32-outof-70-ecardn.wcnf.gz
+24.003400s (38)
+
+splitedReads_158.matrix.wcnf.gz
+0.020970s (0)
+
+spi-debug.dimacs.wcnf.gz
+11.283900s (1)
+
+atcoss_sugar_06.wcnf.gz
+22.813700s (19)
+
+RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D7.wcnf.gz
+8.626060s (24)
+
+divider-debug.dimacs.wcnf.gz
+2.640520s (1)
+
+RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D4.wcnf.gz
+8.497570s (24)
+
+vga-debug.dimacs.wcnf.gz
+2.257660s (1)
+
+drmx-am32-outof-70-esortn.wcnf.gz
+25.133400s (38)
+
+atcoss_mesat_06.wcnf.gz
+30.178500s (17)
+
+titanic_train_5_DNF_2_1.wcnf.gz
+15.823700s (237)
+
+GenHyperTW_adder_15.wcnf.gz
+49.882700s (1)
+
+b21_C-mbd14-0347.wcnf.gz
+0.696241s (19)
+
+mrisc-debug.dimacs.wcnf.gz
+10.587900s (1)
+
+20-500-81.wcnf.gz
+11.574100s (176)
+
+role_university_multiple_0.0_2.wcnf.gz
+61.205400s (21)
+
+biomed.wcnf.gz
+3600s (-)
+
+cnf.14.d.10.wcnf.gz
+9.964260s (14)
+
+cnf.8.p.9.wcnf.gz
+5.625220s (7)
+
+kbtree9_7_3_5_40_2.wcsp.wcnf.gz
+3600s (-)
+
+Q38_YESNO_1.wcnf.gz
+55.069900s (0)
+
+extension-enforcement_strict_com_150_0.1_4_15_1.wcnf.gz
+7.112690s (24)
+
+extension-enforcement_strict_com_200_0.05_4_20_1.wcnf.gz
+21.932700s (33)
+
+dividers5.dimacs.filtered.wcnf.gz
+1.739970s (1)
+
+kbtree9_7_3_5_60_4.wcsp.wcnf.gz
+3600s (-)
+
+sudoku.wcnf.gz
+12.608200s (13)
+
+kbtree9_7_3_5_70_6.wcsp.wcnf.gz
+3600s (-)
+
+mrisc_mem2wire.wcnf.gz
+10.950800s (5)
+
+geffe128_3.wcnf.gz
+70.720200s (800)
+
+cnf.19.t.7.wcnf.gz
+6.407950s (19)
+
+threshold128_7.wcnf.gz
+12.115300s (800)
+
+role_university_multiple_0.0_0.wcnf.gz
+49.513100s (30)
+
+20-500-83.wcnf.gz
+5.160850s (176)
+
+3ebx_.6ebx_.g.wcnf.t.wcnf.gz
+33.571000s (22)
+
+kbtree9_7_3_5_40_4.wcsp.wcnf.gz
+1172.210000s (22)
+
+20-500-64.wcnf.gz
+7.908490s (167)
+
+frb25-13-2.partial.wcnf.gz
+0.086853s (300)
+
+navigation_4x4_5.wcnf.gz
+83.868900s (5)
+
+c-fat500-5.clq.wcnf.gz
+0.544344s (436)
+
+geffe128_0.wcnf.gz
+10.967800s (800)
+
+frb25-13-5.partial.wcnf.gz
+0.041859s (300)
+
+AES2-74-75.wcnf.gz
+12.536200s (2)
+
+frb35-17-4.partial.wcnf.gz
+2.040960s (560)
+
+drmx-am28-outof-60-etot.wcnf.gz
+17.692700s (32)
+
+drmx-am28-outof-60-emtot.wcnf.gz
+18.609400s (32)
+
+drmx-am28-outof-60-ekmtot.wcnf.gz
+16.749700s (32)
+
+g2_n58e76_n72e90.wcnf.gz
+3.897020s (40)
+
+dividers10.dimacs.filtered.wcnf.gz
+4.252770s (2)
+
+drmx-am20-outof-50-ekmtot.wcnf.gz
+5.452520s (30)
+
+frb30-15-1.partial.wcnf.gz
+0.327199s (420)
+
+p15.wcnf.gz
+2.050600s (1)
+
+wolfram80_5.wcnf.gz
+131.297000s (11440)
+
+drmx-am20-outof-50-ecardn.wcnf.gz
+29.879500s (30)
+
+role_domino_multiple_0.0_7.wcnf.gz
+40.899800s (50)
+
+b21_C-mbd14-0374.wcnf.gz
+0.882624s (23)
+
+drmx-am32-outof-70-etot.wcnf.gz
+4.889120s (38)
+
+MultiDay_0.wcnf.gz
+3600s (-)
+
+g5_n38e52_n45e51_n47e60_n54e68_n57e72.wcnf.gz
+93.909700s (40)
+
+extension-enforcement_strict_com_150_0.05_4_30_4.wcnf.gz
+6.502700s (27)
+
+MultiDay_0_weighted.wcnf.gz
+3600s (-)
+
+dp43.wcnf.gz
+8.262590s (40)
+
+20-500-43.wcnf.gz
+10.783000s (171)
+
+cnf.17.t.10.wcnf.gz
+17.968300s (17)
+
+c4_DD_s3_f1_e1_v1-bug-gate-0.dimacs.seq.filtered.wcnf.gz
+28.511900s (8)
+
+g6_n35e48_n39e54_n41e57_n42e58_n53e75_n59e84.wcnf.gz
+59.625900s (33)
+
+s38584_nan_explicit_21_0.wcnf.gz
+38.175500s (183)
+
+2knt_.5pti_.g.wcnf.t.wcnf.gz
+227.254000s (32)
+
+SM_RX_TOP.dimacs.filtered.wcnf.gz
+34.125100s (6)
+
+rsdecoder-debug.dimacs.wcnf.gz
+102.486000s (1)
+
+rsdecoder-problem.dimacs_39.filtered.wcnf.gz
+36.706300s (1)
+
+ms_320_20_20-0.wcnf.gz
+3600s (-)
+
+wb-debug.dimacs.wcnf.gz
+28.546500s (28)
+
+RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-DF.wcnf.gz
+22.358600s (0)
+
+RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-DD.wcnf.gz
+29.275600s (0)
+
+RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-DE.wcnf.gz
+29.553800s (0)
+
+g7_n25e24_n28e29_n32e33_n35e34_n37e37_n38e39_n40e39.wcnf.gz
+30.048600s (10)
+
+b21_C-mbd14-0230.wcnf.gz
+2.516810s (21)
+
+g7_n22e21_n24e23_n45e41_n49e44_n53e61_n54e48_n56e64.wcnf.gz
+99.712900s (6)
+
+g2_n30e41_n31e38.wcnf.gz
+49.283300s (16)
+
+SAT04__industrial__vangelder__cnf-color__abb313GPIA-9-tr.used-as.sat04-321.cnf.wcnf.6.wcnf.gz
+2.336550s (0)
+
+divider-problem.dimacs_8.filtered.wcnf.gz
+59.542800s (2)
+
+g2_n66e80_n71e77.wcnf.gz
+63.563500s (44)
+
+b15-bug-fourvec-gate-0.dimacs.seq.filtered.wcnf.gz
+57.809800s (4)
+
+6ebx_.1era_.g.wcnf.t.wcnf.gz
+211.067000s (29)
+
+kbtree9_7_3_5_50_3.wcsp.wcnf.gz
+3600s (-)
+
+ms_250_20_10-0.wcnf.gz
+2781.380000s (64)
+
+AES2-74-74.wcnf.gz
+49.290700s (2)
+
+cnf.19.p.5.wcnf.gz
+30.882100s (19)
+
+1knt_.5pti_.g.wcnf.t.wcnf.gz
+194.144000s (28)
+
+ms_200_26_20-0.wcnf.gz
+2457.360000s (71)
+
+1bpi_.5pti_.g.wcnf.t.wcnf.gz
+111.320000s (29)
+
+GenHyperTW_dubois25.wcnf.gz
+255.338000s (2)
+
+cnf.13.p.6.wcnf.gz
+23.339500s (13)
+
+p1.wcnf.t.wcnf.gz
+495.271000s (34)
+
+1bpi_.2knt_.g.wcnf.t.wcnf.gz
+243.556000s (34)
+
+navigation_4x4_7.wcnf.gz
+280.374000s (5)
+
+uaq-rpp-nr100-nc33-n3-k2-rpp16-ppr2-plb20.wcnf.gz
+55.716000s (61)
+
+GenHyperTW_atv_partial_system.wcnf.gz
+288.230000s (2)
+
+uaq-rpp-nr100-nc33-n3-k2-rpp19-ppr2-plb20.wcnf.gz
+56.358000s (66)
+
+b20_C-mbd14-0259.wcnf.gz
+1.935730s (21)
+
+g2_n37e35_n39e39.wcnf.gz
+43.685000s (15)
+
+SAT11__application__manthey__traffic__traffic_r_sat.cnf.wcnf.5.wcnf.gz
+1.986400s (0)
+
+1knt_.1bpi_.g.wcnf.t.wcnf.gz
+247.777000s (34)
+
+SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug4_q0.used-as.sat04-723.cnf.wcnf.4.wcnf.gz
+1.857800s (0)
+
+navigation_5x5_8.wcnf.gz
+1276.040000s (8)
+
+b21_C-mbd14-0381.wcnf.gz
+1.109720s (20)
+
+ms_250_10_40-0.wcnf.gz
+3600s (-)
+
+cnf.14.p.8.wcnf.gz
+48.537300s (13)
+
+teams20_l10a.cnf.wcnf.gz
+24.884900s (24)
+
+MinFill_R0_mulsol.i.1.wcnf.gz
+3600s (-)
+
+3ebx_.1era_.g.wcnf.t.wcnf.gz
+709.803000s (34)
+
+flush_reload_min.wcnf.gz
+3600s (-)
+
+MinFill_R0_queen5_5.wcnf.gz
+1401.760000s (92)
+
+mul_8_3.wcnf.gz
+65.195400s (35)
+
+cnf.16.p.4.wcnf.gz
+17.896500s (16)
+
+SAT11__application__leberre__2dimensionalstrippacking__E05F18.cnf.wcnf.7.wcnf.gz
+0.409266s (0)
+
+20-100-lambda100-96.wcnf.gz
+3118.790000s (74)
+
+cnf.14.p.5.wcnf.gz
+105.034000s (14)
+
+sysadmin_4_3.wcnf.gz
+333.570000s (2)
+
+navigation_5x5_9.wcnf.gz
+817.820000s (8)
+
+MinFill_R0_miles1500.wcnf.gz
+3600s (-)
+
+Q34_OPTIONS_1.wcnf.gz
+459.755000s (3)
+
+20-100-frag12-85.wcnf.gz
+884.432000s (42)
+
+b15_C-mbd14-0240.wcnf.gz
+19.398500s (21)
+
+20-100-frag12-91.wcnf.gz
+1286.070000s (43)
+
+b14_C-mbd14-0329.wcnf.gz
+7.019930s (24)
+
+cnf.11.p.9.wcnf.gz
+52.835800s (11)
+
+cnf_10_center.wcnf.gz
+564.662000s (159)
+
+atcoss_sugar_10.wcnf.gz
+942.088000s (12)
+
+meltdown_min.wcnf.gz
+3600s (-)
+
+TWComp_queen5_5_N25.wcnf.gz
+1723.780000s (17)
+
+cellda_y_9.wcnf.gz
+1183.040000s (6)
+
+gen_add_6_991.wcnf.gz
+3600s (-)
+
+ms_160_20_20-0.wcnf.gz
+2916.560000s (79)
+
+uci_mammo_data.wcnf.gz
+160.404000s (58)
+
+cnf_12_center.wcnf.gz
+32.421500s (237)
+
+navigation_5x5_10.wcnf.gz
+1707.320000s (8)
+
+sysadmin_4_4.wcnf.gz
+515.935000s (2)
+
+ms_200_10_40-0.wcnf.gz
+3600s (-)
+
+ms_260_20_20-0.wcnf.gz
+3600s (-)
+
+cellda_y_10.wcnf.gz
+874.417000s (6)
+
+g2_n57e60_n61e85.wcnf.gz
+3600s (-)
+
+johnson32-2-4.clq.wcnf.gz
+3600s (-)
+
+AES2-70-64.wcnf.gz
+11.973200s (2)
+
+cellda_x_10.wcnf.gz
+246.900000s (9)
+
+ms_260_20_20-1.wcnf.gz
+3600s (-)
+
+TWComp_myciel5_N47.wcnf.gz
+823.792000s (18)
+
+20-100-frag12-97.wcnf.gz
+2232.710000s (42)
+
+cellda_x_12.wcnf.gz
+289.859000s (9)
+
+s38584_nan_explicit_46_0.wcnf.gz
+21.550900s (171)
+
+rsdecoder_multivec1.dimacs.filtered.wcnf.gz
+49.932300s (4)
+
+ms_200_22_20-2.wcnf.gz
+3600s (-)
+
+uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb100-n9.wcnf.gz
+3600s (-)
+
+20-100-lambda100-48.wcnf.gz
+3600s (-)
+
+extension-enforcement_strict_com_200_0.05_4_20_4.wcnf.gz
+10.275800s (50)
+
+uaq-min-plb-nr200-np400-rpp5-nc0-rs0-t0-plb45-n2.wcnf.gz
+121.306000s (99)
+
+cnf.15.p.10.wcnf.gz
+62.378700s (15)
+
+s38584_nan_explicit_23_0.wcnf.gz
+45.185500s (179)
+
+s38584_nan_explicit_20_0.wcnf.gz
+49.270100s (194)
+
+dermatology.wcnf.gz
+34.576700s (40)
+
+s38584_nan_explicit_42_0.wcnf.gz
+24.162900s (192)
+
+s38584_nan_explicit_24_0.wcnf.gz
+28.956800s (177)
+
+extension-enforcement_non-strict_stb_150_0.05_1_8_3.wcnf.gz
+2663.790000s (6)
+
+extension-enforcement_non-strict_stb_200_0.05_4_10_0.wcnf.gz
+3600s (-)
+
+wdbc_train_0_CNF_2_1.wcnf.gz
+100.675000s (23)
+
+ms_200_20_20-6.wcnf.gz
+3600s (-)
+
+extension-enforcement_non-strict_stb_200_0.1_4_10_2.wcnf.gz
+3600s (-)
+
+splitedReads_0.matrix.wcnf.gz
+0.016779s (0)
+
+ms_200_16_20-0.wcnf.gz
+3600s (-)
+
+spectre_min.wcnf.gz
+3600s (-)
+
+heart-c.wcnf.gz
+3600s (-)
+
+pesp_5min.wcnf.gz
+58.411700s (34)
+
+406 benchmarks have been successfully executed over a total time of 42820.051140 seconds. 33 benchmarks have failed due to a timeout.
